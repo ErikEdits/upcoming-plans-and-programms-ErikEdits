@@ -1,1 +1,4 @@
 
+
+Die ausführliche Anforderungssammlung 61–100 liegt in:
+.videoeditor/requirements/61-100-editor-ki-und-wissensdatenbank.md
